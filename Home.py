@@ -60,6 +60,15 @@ This application helps you understand how different machine learning algorithms 
 
 ### Available modules visualizations:
 - **Drug Dissolution Profile Simulator**: Explore how different parameters affect drug dissolution kinetics.
+- **Drug Ionization and pH Effects**: Explore how pH affects drug ionization.
+- **Particle Size Distribution in Pharmaceutical Formulations**
+- **Pharmacokinetic Modeling**
+- **Pharmacodynamics Module**
+- **Drug Diffusion and Release Mechanisms**
+- **Physical Pharmacy Interactive Module**
+- **Drug-Drug Interactions Analysis**
+- **Pharmaceutical Excipients Module**
+- **Drug Designer Challenge Game**
 
 Choose a module form sidebar to get started!
 
