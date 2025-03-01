@@ -17,7 +17,6 @@ image_path = (r"cartoon.JPG")
 # Get the base64 string of the image
 image_base64 = image_to_base64(image_path)
 
-# Display your image and name in the top right corner
 st.markdown(
     f"""
     <style>
@@ -79,5 +78,4 @@ Choose a module form sidebar to get started!
 4. Experiment with different settings to understand their impact
 """)
 
-# Display some sample visualizations or key metrics on the home page
 st.sidebar.success("Select a module above.")
