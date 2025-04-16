@@ -5,7 +5,7 @@ import json
 from datetime import datetime
 
 st.set_page_config(
-    page_title="BioPharamcy Platform",
+    page_title="BioPharmacy Platform",
     page_icon="💊",
     layout="wide"
 )
